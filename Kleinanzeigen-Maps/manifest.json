@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Kleinanzeigen Address to GMaps",
+    "description": "Replacing the Location at Kleinanzeigen to Google Maps Search",
+    "version": "2023.11.20",
+    "options_ui": {
+        "page": "options.html",
+        "open_in_tab": false
+    },
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+            "js": [
+                "kleinanzeigenMaps.js"
+            ],
+            "matches": [
+                "https://www.kleinanzeigen.de/s-anzeige/*"
+            ]
+        }
+    ]
+  }
