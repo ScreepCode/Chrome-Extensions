@@ -1,0 +1,17 @@
+{
+    "extension_name": {
+        "message": "Textvorlagen"
+    },
+    "enter_new_template_title": {
+        "message": "Geben Sie den neuen Vorlagentitel ein"
+    },
+    "enter_new_template_text": {
+        "message": "Geben Sie den neuen Vorlagentext ein"
+    },
+    "add_new_template": {
+        "message": "Vorlage hinzufügen"
+    },
+    "click_to_copy": {
+        "message": "Klicke, um zu kopieren"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "extension_name": {
+        "message": "Text Templates"
+    },
+    "enter_new_template_title": {
+        "message": "Enter the new template title"
+    },
+    "enter_new_template_text": {
+        "message": "Enter the new template text"
+    },
+    "add_new_template": {
+        "message": "Add Template"
+    },
+    "click_to_copy": {
+        "message": "Click to copy to clipboard"
+    }
+}
