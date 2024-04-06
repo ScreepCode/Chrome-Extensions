@@ -2,6 +2,9 @@
     "extension_name": {
         "message": "Text Templates"
     },
+    "extension_description": {
+        "message": "This extension will help you with keeping multiple text values to copy to clipboard"
+    },
     "enter_new_template_title": {
         "message": "Enter the new template title"
     },

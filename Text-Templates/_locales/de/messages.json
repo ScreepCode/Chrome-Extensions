@@ -2,6 +2,9 @@
     "extension_name": {
         "message": "Textvorlagen"
     },
+    "extension_description": {
+        "message": "Diese Erweiterung hilft Ihnen dabei, mehrere Textwerte zum Kopieren in die Zwischenablage beizubehalten"
+    },
     "enter_new_template_title": {
         "message": "Geben Sie den neuen Vorlagentitel ein"
     },
