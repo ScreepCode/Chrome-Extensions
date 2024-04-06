@@ -1,14 +1,14 @@
 {
     "manifest_version": 3,
   
-    "name": "Text Templates",
-    "description": "This extension will help you with keeping multiple text values to copy to clipboard",
-    "version": "2024.04.03",
+    "name": "__MSG_extension_name__",
+    "description": "__MSG_extension_description__",
+    "version": "2024.04.06",
     "default_locale": "en",
   
     "action": {
-      "default_icon": "icons/clipboardPicture.png",
-      "default_popup": "popup.html"
+      "default_icon": "images/clipboardPicture.png",
+      "default_popup": "popup/popup.html"
     },
     "permissions": [
       "storage"
