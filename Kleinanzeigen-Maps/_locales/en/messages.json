@@ -1,0 +1,26 @@
+{
+    "extension_name": {
+        "message": "Kleinanzeigen Address to Google-Maps"
+    },
+    "extension_description": {
+        "message": "Replacing the Location information at Kleinanzeigen to a Google Maps Search"
+    },
+    "mode_selection_heading": {
+        "message": "Google Maps Mode"
+    },
+    "start_location_heading": {
+        "message": "Start of Route:"
+    },
+    "start_location_mode": {
+        "message": "Start at location"
+    },
+    "only_view_mode": {
+        "message": "Show only location"
+    },
+    "options_saved":{
+        "message": "Options saved."
+    },
+    "save_button": {
+        "message": "Save"
+    }
+}
