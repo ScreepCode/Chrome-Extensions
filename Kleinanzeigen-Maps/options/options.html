@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="ed">
+  <head>
+    <title>KleinanzeigenMaps Extension Options</title>
+  </head>
+  <body>
+  <label for="modus" data-i18n="mode_selection_heading">Google Maps Mode</label>
+    <select id="modus">
+      <option value="startLocation" data-i18n="start_location_mode">startLocation</option>
+      <option value="onlyView" data-i18n="only_view_mode">onlyView</option>
+    </select>
+    <br>
+    <div id="startLocationDiv">
+      <label for="startLocation" data-i18n="start_location_heading">Start Location:</label><input type="text" id="startLocation" />
+    </div>
+
+    <div id="status"></div>
+    <button id="save" data-i18n="save_button">Save</button>
+
+    <script src="options.js"></script>
+  </body>
+</html>

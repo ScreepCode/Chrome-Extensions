@@ -1,0 +1,26 @@
+{
+    "extension_name": {
+        "message": "Kleinanzeigen Address zu Google-Maps"
+    },
+    "extension_description": {
+        "message": "Ersetzen der Ortsangabe bei Kleinanzeigen durch eine Google Maps-Suche"
+    },
+    "mode_selection_heading": {
+        "message": "Google Maps Modus"
+    },
+    "start_location_mode": {
+        "message": "Start einer Route"
+    },
+    "only_view_mode": {
+        "message": "Zeige nur den Standort"
+    },
+    "start_location_heading": {
+        "message": "Start der Route:"
+    },
+    "options_saved":{
+        "message": "Präferenz gespeichert."
+    },
+    "save_button": {
+        "message": "Speichern"
+    }
+}
